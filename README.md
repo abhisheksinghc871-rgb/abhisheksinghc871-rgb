@@ -103,89 +103,108 @@ AWS EC2
    └── PostgreSQL
    │
    └──────────────► Prometheus → Grafana
-🔧 What I Implemented
-Git-based source control and GitHub integration
-Jenkins Pipeline as Code
-Automated backend testing
-Docker image build and containerization
-Docker Compose based application deployment
-AWS EC2 deployment
-Nginx reverse proxy and routing
-Terraform configuration and validation for existing infrastructure
-Ansible-based server configuration and deployment automation
-Kubernetes deployment using Minikube
-Kubernetes Deployments, Services, Secrets and health probes
-Helm packaging and release management
-Helm rollback and troubleshooting
-Prometheus application instrumentation
-Grafana monitoring dashboards
-Trivy container image vulnerability scanning
-Troubleshooting of deployment and configuration issues
-🧩 Application Stack
-Frontend  → React / Vite
-Backend   → FastAPI
-Database  → PostgreSQL
-Proxy     → Nginx
-📌 Project Repository
+``` 
+### 🔧 What I Implemented
 
-👉 View OpsTrack on GitHub
+- Git-based source control and GitHub integration
+- Jenkins Pipeline as Code
+- Automated backend testing
+- Docker image build and containerization
+- Docker Compose based application deployment
+- AWS EC2 deployment
+- Nginx reverse proxy and routing
+- Terraform configuration and validation for existing infrastructure
+- Ansible-based server configuration and deployment automation
+- Kubernetes deployment using Minikube
+- Kubernetes Deployments, Services, Secrets and health probes
+- Helm packaging and release management
+- Helm rollback and troubleshooting
+- Prometheus application instrumentation
+- Grafana monitoring dashboards
+- Trivy container image vulnerability scanning
+- Troubleshooting of deployment and configuration issues
 
-📚 Other Hands-On Projects
-🖥️ LinuxOps Health Center
+### 🧩 Application Stack
+
+| Component | Technology |
+|---|---|
+| Frontend | React / Vite |
+| Backend | FastAPI |
+| Database | PostgreSQL |
+| Proxy | Nginx |
+
+### 📌 Project Repository
+
+👉 **[View OpsTrack on GitHub](https://github.com/abhisheksinghc871-rgb/opstrack)**
+
+## 📚 Other Hands-On Projects
+
+### 🖥️ LinuxOps Health Center
 
 Linux server health monitoring and operational automation project focused on system information, health checks and Linux administration concepts.
 
-👉 View Repository
+👉 **[View Repository](https://github.com/abhisheksinghc871-rgb/linuxops-health-center)**
 
-🌐 NetScope-Lite
+### 🌐 NetScope-Lite
 
 Networking-focused hands-on project covering network diagnostics and operational troubleshooting concepts.
 
-👉 View Repository
+👉 **[View Repository](https://github.com/abhisheksinghc871-rgb/netscope-lite)**
 
-🎯 Current Focus
-DevOps Engineering
-       │
-       ├── CI/CD
-       ├── Docker
-       ├── AWS
-       ├── Infrastructure as Code
-       ├── Kubernetes
-       ├── Automation
-       ├── Monitoring
-       └── Security
+---
 
-I'm currently strengthening my understanding of how these tools work together as a complete DevOps workflow, with emphasis on practical implementation and troubleshooting.
+## 🎯 Current Focus
 
-🧠 DevOps Learning Approach
+I'm currently strengthening my understanding of how DevOps tools work together as a complete delivery workflow, with emphasis on practical implementation and troubleshooting.
+
+- CI/CD
+- Docker
+- AWS
+- Infrastructure as Code
+- Kubernetes
+- Automation
+- Monitoring
+- Security
+
+---
+
+## 🧠 DevOps Learning Approach
 
 I prefer learning DevOps through:
 
-Concept → Why → Hands-on → Real-world usage → Troubleshooting → Project Integration
+**Concept → Why → Hands-on → Real-world usage → Troubleshooting → Project Integration**
 
-The goal is not just to know commands, but to understand why a tool is used, how it fits into the delivery lifecycle, and how to troubleshoot it when things fail.
+The goal is not just to know commands, but to understand **why a tool is used, how it fits into the delivery lifecycle, and how to troubleshoot it when things fail.**
 
-📈 DevOps Areas
-Area	Tools
-Source Control	Git, GitHub
-CI/CD	Jenkins
-Containers	Docker, Docker Compose
-Cloud	AWS, EC2, IAM
-IaC	Terraform
-Configuration Management	Ansible
-Orchestration	Kubernetes, Helm
-Monitoring	Prometheus, Grafana
-Security	Trivy
-Systems	Linux, Bash
-Programming	Python
-Configuration	YAML, JSON
-🔗 Connect With Me
-<div align="center">
+---
 
-</div>
-<div align="center">
-🚀 Building • Automating • Troubleshooting • Learning
+## 📈 DevOps Areas
+
+| Area | Tools |
+|---|---|
+| Source Control | Git, GitHub |
+| CI/CD | Jenkins |
+| Containers | Docker, Docker Compose |
+| Cloud | AWS, EC2, IAM |
+| Infrastructure as Code | Terraform |
+| Configuration Management | Ansible |
+| Orchestration | Kubernetes, Helm |
+| Monitoring | Prometheus, Grafana |
+| Security | Trivy |
+| Systems | Linux, Bash |
+| Programming | Python |
+| Configuration | YAML, JSON |
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-chauhan-60b999323)
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhisheksinghc871--rgb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksinghc871-rgb)
+
+---
+
+### 🚀 Building • Automating • Troubleshooting • Learning
 
 Feel free to explore my repositories and hands-on DevOps projects.
-
-</div> ```
