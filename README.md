@@ -1,211 +1,191 @@
 # 👋 Hi, I'm Abhishek Singh Chauhan
 
+<div align="center">
+
 ### DevOps & Cloud | CI/CD | Infrastructure Automation
 
-> Building hands-on DevOps projects with real-world tools, deployment workflows, troubleshooting, and automation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+hands-on+DevOps+projects;Docker+%7C+Jenkins+%7C+AWS+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Linux;Automation+%7C+Monitoring+%7C+Troubleshooting)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm an IT professional with around **2.5 years of experience in IT support and infrastructure operations**, currently transitioning into **DevOps and Cloud**.
+I'm an IT professional with experience in IT support and infrastructure operations, currently transitioning into **DevOps and Cloud Engineering**.
 
-My focus is on building practical hands-on experience with:
+I focus on building **hands-on, practical DevOps projects** to understand how applications move from development to deployment, monitoring, troubleshooting, and continuous improvement.
 
-- CI/CD automation
-- Containerization
-- Cloud deployment
-- Infrastructure automation
-- Kubernetes and Helm
-- Monitoring and observability
-- Security scanning
-- Linux administration
-- Troubleshooting and deployment workflows
+My current focus includes:
 
-I prefer learning by **building, deploying, breaking, troubleshooting, and improving real projects** rather than focusing only on theory.
-
----
-
-## 🛠️ DevOps & Cloud Stack
-
-### 🚀 CI/CD
-`Git` `GitHub` `Jenkins` `Jenkins Pipeline`
-
-### 🐳 Containers
-`Docker` `Docker Compose`
-
-### ☁️ Cloud
-`AWS` `EC2` `IAM`
-
-### 🏗️ Infrastructure Automation
-`Terraform` `Ansible`
-
-### ☸️ Orchestration
-`Kubernetes` `Helm` `Minikube`
-
-### 📊 Monitoring
-`Prometheus` `Grafana`
-
-### 🔐 Security
-`Trivy`
-
-### 🐧 Systems & Programming
-`Linux` `Bash` `Python` `YAML` `JSON`
+- 🔄 CI/CD automation
+- 🐳 Containerization with Docker
+- ☁️ AWS cloud infrastructure
+- ☸️ Kubernetes & Helm
+- 🏗️ Infrastructure automation with Terraform
+- ⚙️ Configuration management with Ansible
+- 📊 Monitoring with Prometheus & Grafana
+- 🔐 Security scanning with Trivy
+- 🐧 Linux administration and troubleshooting
 
 ---
 
-# 🚀 Featured Project
+## 🛠️ Tech Stack
+
+**DevOps & CI/CD**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Containers & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Infrastructure & Automation**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Kubernetes & Monitoring**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Security & Systems**
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+---
+
+# ⭐ Featured Project
 
 ## OpsTrack — DevOps CI/CD & Cloud Deployment Platform
 
-**OpsTrack** is a task and incident management application used as a hands-on platform for implementing DevOps practices across the application lifecycle.
+**OpsTrack** is my primary hands-on DevOps project focused on implementing an application delivery workflow using modern DevOps tools and practices.
 
-The project covers application containerization, CI/CD automation, cloud deployment, infrastructure automation, Kubernetes deployment, security scanning, monitoring, and troubleshooting.
-
-### 🔄 DevOps Flow
+### 🔄 DevOps Workflow
 
 ```text
-                         GitHub
-                            │
-                            ▼
-                       Jenkins CI/CD
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-          Testing         Docker         Trivy
-             │              │              │
-             └──────────────┼──────────────┘
-                            │
-                            ▼
-                       Deployment
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-          AWS EC2 / Docker       Kubernetes + Helm
-                 │                     │
-                 └──────────┬──────────┘
-                            ▼
-                       Prometheus
-                            │
-                            ▼
-                         Grafana
-🔧 Application Stack
-Frontend: React / Vite
-Backend: FastAPI
-Database: PostgreSQL
-Reverse Proxy: Nginx
-Containerization: Docker / Docker Compose
-⚙️ DevOps Implementation
-Git-based source control with GitHub
+Developer
+   │
+   ▼
+GitHub
+   │
+   ▼
+Jenkins CI/CD
+   │
+   ├── Automated Tests
+   ├── Docker Build
+   ├── Trivy Security Scan
+   └── Deployment Verification
+   │
+   ▼
+Docker / Docker Compose
+   │
+   ▼
+AWS EC2
+   │
+   ├── Nginx
+   ├── Frontend
+   ├── Backend
+   └── PostgreSQL
+   │
+   └──────────────► Prometheus → Grafana
+🔧 What I Implemented
+Git-based source control and GitHub integration
 Jenkins Pipeline as Code
 Automated backend testing
-Docker image build automation
-Trivy vulnerability scanning
+Docker image build and containerization
+Docker Compose based application deployment
 AWS EC2 deployment
-Nginx-based application routing
-Docker Compose deployment
-Terraform configuration and validation for existing AWS infrastructure
+Nginx reverse proxy and routing
+Terraform configuration and validation for existing infrastructure
 Ansible-based server configuration and deployment automation
 Kubernetes deployment using Minikube
-Kubernetes Deployments, Services, Secrets, and health probes
-Backend scaling with multiple replicas
-Helm chart packaging and deployment
-Helm upgrade and rollback troubleshooting
-Prometheus metrics instrumentation
+Kubernetes Deployments, Services, Secrets and health probes
+Helm packaging and release management
+Helm rollback and troubleshooting
+Prometheus application instrumentation
 Grafana monitoring dashboards
-Deployment verification and troubleshooting
-🧩 Architecture
-                    ┌─────────────┐
-                    │   GitHub    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   Jenkins   │
-                    │    CI/CD    │
-                    └──────┬──────┘
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-          Testing        Docker        Trivy
-             │             │             │
-             └─────────────┼─────────────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ Deployment  │
-                    └──────┬──────┘
-                           │
-              ┌────────────┴────────────┐
-              ▼                         ▼
-       ┌──────────────┐         ┌────────────────┐
-       │ AWS EC2      │         │ Kubernetes     │
-       │ Docker       │         │ Minikube       │
-       │ Nginx        │         │ Helm           │
-       └──────┬───────┘         └───────┬────────┘
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                    ┌─────────────┐
-                    │ Prometheus  │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │   Grafana   │
-                    └─────────────┘
-🎯 Key Learning Areas
+Trivy container image vulnerability scanning
+Troubleshooting of deployment and configuration issues
+🧩 Application Stack
+Frontend  → React / Vite
+Backend   → FastAPI
+Database  → PostgreSQL
+Proxy     → Nginx
+📌 Project Repository
 
-Through OpsTrack, I worked hands-on with:
+👉 View OpsTrack on GitHub
 
-CI/CD pipeline design
-Container lifecycle management
-Docker networking and health checks
-AWS EC2 deployment
-Infrastructure configuration
-Configuration management
-Kubernetes application deployment
-Helm-based application management
-Scaling and rollback
-Vulnerability scanning
-Application monitoring
-Deployment verification
-Troubleshooting failed deployments
-📌 What I'm Currently Focusing On
-Strengthening DevOps fundamentals
-Improving Linux and troubleshooting skills
-Building deeper understanding of CI/CD
-AWS and cloud infrastructure
-Kubernetes and Helm
-Infrastructure as Code
-Monitoring and observability
-Real-world deployment workflows
-DevOps interview preparation
-📈 Learning Approach
-Learn
-  ↓
-Build
-  ↓
-Deploy
-  ↓
-Break
-  ↓
-Troubleshoot
-  ↓
-Automate
-  ↓
-Improve
+📚 Other Hands-On Projects
+🖥️ LinuxOps Health Center
 
-I believe practical troubleshooting and understanding why something works are as important as knowing the commands.
+Linux server health monitoring and operational automation project focused on system information, health checks and Linux administration concepts.
 
-🤝 Connect
+👉 View Repository
 
-I'm open to connecting with professionals, recruiters, and engineers working in:
+🌐 NetScope-Lite
 
-DevOps
-Cloud
-Infrastructure
-Platform Engineering
-Site Reliability Engineering
-⭐ Thanks for visiting my profile!
+Networking-focused hands-on project covering network diagnostics and operational troubleshooting concepts.
+
+👉 View Repository
+
+🎯 Current Focus
+DevOps Engineering
+       │
+       ├── CI/CD
+       ├── Docker
+       ├── AWS
+       ├── Infrastructure as Code
+       ├── Kubernetes
+       ├── Automation
+       ├── Monitoring
+       └── Security
+
+I'm currently strengthening my understanding of how these tools work together as a complete DevOps workflow, with emphasis on practical implementation and troubleshooting.
+
+🧠 DevOps Learning Approach
+
+I prefer learning DevOps through:
+
+Concept → Why → Hands-on → Real-world usage → Troubleshooting → Project Integration
+
+The goal is not just to know commands, but to understand why a tool is used, how it fits into the delivery lifecycle, and how to troubleshoot it when things fail.
+
+📈 DevOps Areas
+Area	Tools
+Source Control	Git, GitHub
+CI/CD	Jenkins
+Containers	Docker, Docker Compose
+Cloud	AWS, EC2, IAM
+IaC	Terraform
+Configuration Management	Ansible
+Orchestration	Kubernetes, Helm
+Monitoring	Prometheus, Grafana
+Security	Trivy
+Systems	Linux, Bash
+Programming	Python
+Configuration	YAML, JSON
+🔗 Connect With Me
+<div align="center">
+
+</div>
+<div align="center">
+🚀 Building • Automating • Troubleshooting • Learning
 
 Feel free to explore my repositories and hands-on DevOps projects.
+
+</div> ```
