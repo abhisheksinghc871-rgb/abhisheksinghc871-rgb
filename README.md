@@ -197,6 +197,21 @@ The goal is not just to know commands, but to understand **why a tool is used, h
 
 ---
 
+## 📊 GitHub Metrics & Dashboard
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/06402B/abhisheksinghchauhan" 
+alt="Abhishek's GitHub contribution chart" 
+width="800" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhisheksinghchauhan&theme=tokyonight&hide_border=true" 
+alt="Abhishek's GitHub contribution streak" />
+
+</div>
+
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-chauhan-60b999323)
