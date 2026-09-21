@@ -201,14 +201,14 @@ The goal is not just to know commands, but to understand **why a tool is used, h
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/06402B/abhisheksinghchauhan" 
-alt="Abhishek's GitHub contribution chart" 
+<img src="https://ghchart.rshah.org/06402B/abhisheksinghc871-rgb"
+alt="GitHub Contribution Chart"
 width="800" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhisheksinghchauhan&theme=tokyonight&hide_border=true" 
-alt="Abhishek's GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhisheksinghc871-rgb&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak" />
 
 </div>
 
