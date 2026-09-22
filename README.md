@@ -210,6 +210,12 @@ width="800" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abhisheksinghc871-rgb&theme=tokyonight&hide_border=true"
 alt="GitHub Contribution Streak" />
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisheksinghc871-rgb&theme=tokyonight"
+alt="GitHub Profile Summary"
+width="800" />
+
 </div>
 
 ## 🔗 Connect With Me
